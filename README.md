@@ -1,34 +1,47 @@
 
-Cluster0
 Password S6XTjV7n50IgmNJ0
 
 Username reachasdass_db_user
 
 
- tech stack :
+ List of Implemented Features
+ 
+JWT Authentication
 
-na frontend :
-react 
-,redux for globle state maneagement
-styling use  Tailwindcss3 for responsive design
-api handling for reactquery
-Html 5
+Student CRUD (Add, Edit, View, Delete)
 
-backend:
-node,expressjs, 
-image upload use for multer
-and 
-secure use for JWT, 
+Image Upload (Profile Photo)
 
-DB;
+Search, Filter & Pagination
 
-MongoDb
+Role-Based Access Control (Admin vs Teacher)
 
-Setup Instructions   
+Excel Import/Export
+
+Dashboard Analytics (Total Students, Class-wise, Gender Ratio)
+
+Audit Logs (User, Action, Timestamp, Data Changes)
+
+
+
+
+Backend Setup
+cd student-management
+cd backend
 npm install
 npm start
 
-both frontend and backend
+
+Frontend Setup
+cd frontend
+cd my-app
+npm install
+npm start
 
 
+
+
+db password:
+Password S6XTjV7n50IgmNJ0
+Username reachasdass_db_user
 
