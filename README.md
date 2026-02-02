@@ -45,7 +45,7 @@ db password:
 Password S6XTjV7n50IgmNJ0
 Username reachasdass_db_user
 
-Login Credentials Admin
+ADMIN Login Credentials 
 Email:reachasdass@gmail.com
 password:Admin@123
 
