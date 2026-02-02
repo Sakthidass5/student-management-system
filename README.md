@@ -39,7 +39,7 @@ npm install
 npm start
 
 
-
+Used MongoDB Atlas
 
 db password:
 Password S6XTjV7n50IgmNJ0
