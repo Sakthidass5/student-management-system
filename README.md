@@ -49,3 +49,4 @@ ADMIN Login Credentials
 Email:reachasdass@gmail.com
 password:Admin@123
 
+“The teacher role can register, log in, and use the system.”
